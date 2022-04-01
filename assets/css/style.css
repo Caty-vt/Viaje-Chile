@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+}
+
+.tit-1{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.clum-1{
+    margin-bottom: 20px;
+}
+
+.fa-solid{
+    color: white;
+}
+footer{
+    padding-top: 10px;
+}
